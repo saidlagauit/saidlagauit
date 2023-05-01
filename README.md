@@ -1,5 +1,3 @@
-Certainly! Here's a brief write-up about you:
-
 ## About Me
 
 Hello! I'm SAID LAGAUIT, a passionate web developer with expertise in PHP, MySQL, JavaScript, HTML, CSS, SCSS, and Bootstrap. With a strong foundation in these technologies, I have honed my skills to create dynamic and visually appealing web applications.

@@ -1,12 +1,12 @@
 **About Me**
 
-Hello! I'm SAID LAGAUIT, an enthusiastic learner and aspiring web developer. I'm currently immersed in the world of web development, focusing on mastering technologies like PHP, MySQL, JavaScript, HTML, CSS, SCSS, and Bootstrap. While I'm in the process of honing my skills, I'm excited to share my journey of growth in this field.
+Hello! I'm SAID LAGAUIT, an enthusiastic learner and aspiring web developer. I'm currently immersed in web development, focusing on mastering technologies like PHP, MySQL, JavaScript, HTML, CSS, SCSS, and Bootstrap. While I'm in the process of honing my skills, I'm excited to share my journey of growth in this field.
 
 **Skills**
 
 - **PHP**: I'm actively developing my proficiency in PHP programming, aiming to create robust web applications. I'm learning how to handle server-side scripting and integrate databases to build functional websites.
 
-- **MySQL**: My journey in becoming a skilled MySQL developer is ongoing. I'm working on designing and managing databases effectively. Learning to write SQL queries to manipulate data is a priority for me, ensuring smooth web application operations.
+- **MySQL**: My journey to becoming a skilled MySQL developer is ongoing. I'm working on designing and managing databases effectively. Learning to write SQL queries to manipulate data is a priority for me, as it ensures smooth web application operations.
 
 - **JavaScript**: I'm enthusiastic about JavaScript and its various frameworks and libraries. I'm exploring how to create interactive and dynamic web pages to enhance user experiences and add functionality.
 
